@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color:#00ABE4;
+    height: 80px;
+    margin: 10px;
+    font-family: roboto;
+}
+.header h2{
+    color: #fff;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+ul li a{
+    color: #fff;
+    letter-spacing: 0rem;
+}
+ul li a:hover{
+    color: rgb(61, 29, 29);
+    text-decoration: underline;
+}
+.menu li{
+    float:left;
+    padding: 20px;
+}
+.menu li a{
+    text-decoration: none;
+}
+.header form{
+    padding: 35px;
+    text-align: right;
+}
+#apropos{
+    padding: 50px;
+    margin: 50x;    
+}
+#apropos h1{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+fieldset{
+    margin-top: 70px;
+    width: 27%
+    box-shadow: 5px 5px 20px 1px 10px;
+    border:0px;
+
+}
